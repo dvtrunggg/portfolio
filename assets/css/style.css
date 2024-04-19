@@ -1172,6 +1172,7 @@ li {
 }
 
 .resume-sub-hyphen-minus:before{
+  
   content: "- ";
   margin-left: 5%;
 
